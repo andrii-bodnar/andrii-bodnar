@@ -3,7 +3,7 @@
 [<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>](#)
 
 
-My name is Andrii Bodnar and I'm a Software Engineer from Ukraine. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
+My name is Andrii Bodnar and I'm a Software Engineer from Ukraine. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2]
 
 [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andrii-bodnar)
 
@@ -18,7 +18,6 @@ My name is Andrii Bodnar and I'm a Software Engineer from Ukraine. You can find 
 ![Java](https://img.shields.io/badge/-java-E34A86?logo=java&cacheSeconds=10000)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&cacheSeconds=10000)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&cacheSeconds=10000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&cacheSeconds=10000)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&cacheSeconds=10000)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&cacheSeconds=10000)
