@@ -5,7 +5,7 @@
 
 My name is Andrii Bodnar and I'm a Software Engineer from Ukraine. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2]
 
-[![GitHub followers](https://img.shields.io/github/followers/andrii-bodnar?label=Follow&style=social)](https://github.com/andrii-bodnar?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/andrii-bodnar?label=Follow&style=social)](https://github.com/andrii-bodnar?tab=followers)
 
 #### 🔧 Technologies & Tools
 
