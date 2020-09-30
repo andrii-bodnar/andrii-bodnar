@@ -19,6 +19,7 @@ My name is Andrii Bodnar and I'm a Software Engineer from Ukraine. You can find 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&cacheSeconds=10000)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&cacheSeconds=10000)
 ![Laravel](https://img.shields.io/badge/-Laravel-teal?logo=laravel&cacheSeconds=10000)
+![Symfony](https://img.shields.io/badge/-Symfony-blue?logo=symfony&cacheSeconds=10000)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&cacheSeconds=10000)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&cacheSeconds=10000)
