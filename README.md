@@ -31,6 +31,10 @@ My name is Andrii Bodnar and I'm a Software Engineer from Ukraine. You can find 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&cacheSeconds=10000)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=Raspberry-Pi&cacheSeconds=10000)
 
+#### 💻 Open-Source
+
+- Symfony [contributor](https://github.com/symfony/symfony/pulls?q=author%3Aandrii-bodnar)
+
 #### 📊 Stats 
 
 [![Andrii's github stats](https://github-readme-stats.vercel.app/api?username=andrii-bodnar&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
