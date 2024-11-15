@@ -10,6 +10,7 @@ My name is Andrii Bodnar. I'm passionate about open-source, i18n, JavaScript eco
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&cacheSeconds=10000)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=Node.js&cacheSeconds=10000)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=Next.js&cacheSeconds=10000)
+![Astro](https://img.shields.io/badge/-Astro-44178c?logo=Astro&cacheSeconds=10000)
 ![React](https://img.shields.io/badge/-React-black?logo=react&cacheSeconds=10000)
 ![Vue](https://img.shields.io/badge/-Vue-black?logo=Vue.js&cacheSeconds=10000)
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=PHP&cacheSeconds=10000)
