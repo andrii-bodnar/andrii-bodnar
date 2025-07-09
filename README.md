@@ -37,4 +37,4 @@ My name is Andrii Bodnar. I'm passionate about open-source, i18n, JavaScript eco
 
 #### 📊 GitHub Stats
 
-[![Andrii's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andrii-bodnar&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrii's github stats](https://github-readme-stats.vercel.app/api?username=andrii-bodnar&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
