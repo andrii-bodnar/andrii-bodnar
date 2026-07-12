@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Andrii Bodnar's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 37, Total Commits  : 5371, Total PRs: 1432, Total PRs Reviewed: 669, Total Issues: 698, Total Discussions Answered: 33, Contributed to (last year): 42</desc>
+        <desc id="descId">Total Stars Earned: 37, Total Commits  : 5382, Total PRs: 1438, Total PRs Reviewed: 686, Total Issues: 698, Total Discussions Answered: 33, Contributed to (last year): 42</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 50.69918756843142;
+        stroke-dashoffset: 50.669180650136326;
       }
     }
   
@@ -193,7 +193,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >669</text>
+      >686</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
