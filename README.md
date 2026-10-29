@@ -1,29 +1,23 @@
 ### Hi there 👋
 
-My name is Andrii Bodnar. I'm passionate about open-source, i18n, JavaScript ecosystem, and various Web frameworks.
+My name is Andrii Bodnar. I'm passionate about open source, i18n, and developer tooling, and lately about AI agents for localization workflows.
 
 [![GitHub followers](https://img.shields.io/github/followers/andrii-bodnar?label=Follow&style=social)](https://github.com/andrii-bodnar?tab=followers)
 
 #### 🔧 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&cacheSeconds=10000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&cacheSeconds=10000)
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=Node.js&cacheSeconds=10000)
-![React](https://img.shields.io/badge/-React-black?logo=react&cacheSeconds=10000)
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=Next.js&cacheSeconds=10000)
-![Astro](https://img.shields.io/badge/-Astro-44178c?logo=Astro&cacheSeconds=10000)
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&cacheSeconds=10000)
-
-![GitHub Actions](https://img.shields.io/badge/-GH%20Actions-181717?logo=githubactions&cacheSeconds=10000)
-![Amazon AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&cacheSeconds=10000)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&cacheSeconds=10000)
-![Prometheus](https://img.shields.io/badge/-Prometheus-1572B6?logo=prometheus&cacheSeconds=10000)
-![Grafana](https://img.shields.io/badge/-Grafana-430098?logo=grafana&cacheSeconds=10000)
-![Ansible](https://img.shields.io/badge/-Ansible-3e8391?logo=ansible&cacheSeconds=10000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=Next.js)
+![Astro](https://img.shields.io/badge/-Astro-black?logo=Astro)
+![Vite](https://img.shields.io/badge/-Vite-black?logo=vite)
+![GitHub Actions](https://img.shields.io/badge/-GH%20Actions-black?logo=githubactions)
 
 #### 💻 Open Source
 
-- [Crowdin](https://github.com/crowdin) Open-Source projects' maintainer
+- Maintainer of [Crowdin](https://github.com/crowdin) open-source projects
 - [Lingui](https://github.com/lingui) maintainer
 - Symfony [contributor](https://github.com/search?q=org%3Asymfony+author%3Aandrii-bodnar&type=pullrequests)
 
@@ -33,4 +27,7 @@ My name is Andrii Bodnar. I'm passionate about open-source, i18n, JavaScript eco
 
 #### 📊 GitHub Stats
 
-![Stats](./profile/stats.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img alt="GitHub stats" src="./profile/stats.svg">
+</picture>

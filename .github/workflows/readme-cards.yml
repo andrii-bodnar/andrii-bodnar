@@ -13,14 +13,22 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&rank_icon=github&hide_title=true
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card (dark)
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&rank_icon=github&hide_title=true&theme=github_dark
+          path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
